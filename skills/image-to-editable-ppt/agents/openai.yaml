@@ -1,0 +1,8 @@
+interface:
+  display_name: "Image to Editable PPT"
+  short_description: "Generate images into editable PPTX decks."
+  brand_color: "#18B8A6"
+  default_prompt: "Use $image-to-editable-ppt to generate future-city images and build an editable Chinese PPT deck."
+
+policy:
+  allow_implicit_invocation: true
